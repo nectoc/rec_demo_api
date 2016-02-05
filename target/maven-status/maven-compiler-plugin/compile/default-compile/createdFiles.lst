@@ -1,0 +1,5 @@
+server/service/MovieApi.class
+client/rest/HttpClient.class
+client/rest/MLIntegrationTestConstants.class
+server/service/Movie.class
+server/obj/Movie.class
